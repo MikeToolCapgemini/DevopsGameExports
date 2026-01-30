@@ -1,4 +1,5 @@
 {
   "address": "ws.agiledevops.nl",
+  "use-port": false,
   "port": 8080
 }
